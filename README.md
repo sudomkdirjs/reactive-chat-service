@@ -1,6 +1,6 @@
 # WebFlux Chat App
 
-## Prerequisite
+## Prerequisites
 
 * Needs Java 8 or above
 
