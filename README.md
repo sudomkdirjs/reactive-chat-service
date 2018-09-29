@@ -4,4 +4,4 @@
 
 `./gradlew clean build`
 
-`java -jar build/libs/reactive-chat-0.0.1-SNAPSHOT.jar`
+`java -jar build/libs/reactive-chat-service-0.0.1-SNAPSHOT.jar`
