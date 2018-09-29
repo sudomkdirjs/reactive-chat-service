@@ -1,6 +1,6 @@
 # WebFlux Chat App
 
-## Steps to run the app
+## Steps to start the server
 
 `./gradlew clean build`
 
